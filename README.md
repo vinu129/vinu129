@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there I'm Vinay Chudasama 👋
 
+👀 I'm a FronEnd Developer at 1Rivet
+🔭 I keep updating my knowledge of HTML, CSS, React.JS.
+🌱 I’m currently learning Node JS, Experss and Mongo DB.
+
+📫 How to reach me: Email: vinayvhc38@gmail.com LinkedIn: vinaychudasama
 <!--
 **vinu129/vinu129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
