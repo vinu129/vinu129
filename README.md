@@ -1,7 +1,9 @@
 ## Hi there I'm Vinay Chudasama 👋
 
-👀 I'm a FronEnd Developer at 1Rivet
+👀 I'm a FronEnd Developer at 1Rivet.
+
 🔭 I keep updating my knowledge of HTML, CSS, React.JS.
+
 🌱 I’m currently learning Node JS, Experss and Mongo DB.
 
 📫 How to reach me: Email: vinayvhc38@gmail.com LinkedIn: vinaychudasama
